@@ -1,4 +1,4 @@
-package com.reactive.observer;
+package com.reactive.sample;
 
 import java.util.Arrays;
 import java.util.Iterator;

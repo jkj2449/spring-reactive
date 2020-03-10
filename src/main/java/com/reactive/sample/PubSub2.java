@@ -1,4 +1,4 @@
-package com.reactive.observer;
+package com.reactive.sample;
 
 import lombok.extern.slf4j.Slf4j;
 
